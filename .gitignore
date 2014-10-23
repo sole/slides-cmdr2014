@@ -1,0 +1,5 @@
+.DS_Store
+node_modules
+public
+.tmp
+src/bower_components
